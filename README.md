@@ -19,6 +19,13 @@ This dashboard helps analyze **renewable vs. non-renewable energy usage**, visua
 ## 📑 Dataset used
 - <a href="https://github.com/akashkokne0214/Energy-Flow-Analysis/blob/main/Energy%20Dataset.zip">Dataset</a>
 
+---
+
+## Dashboard Link
+- <a herf="https://github.com/akashkokne0214/Energy-Flow-Analysis/blob/main/Screenshot.png">View Dashboard</a>
+
+---
+
 ## ✨ Key Features
 ### 🔹 Energy Consumption Insights
 - Monthly & seasonal breakdown of energy usage.
