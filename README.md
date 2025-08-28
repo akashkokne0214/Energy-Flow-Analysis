@@ -1,5 +1,9 @@
 # ⚡ Energy Flow Analysis Dashboard | Power BI
 
+## 🖼️ Dashboard
+<img width="1415" height="792" alt="Screenshot" src="https://github.com/user-attachments/assets/fe388adc-65d7-4953-ad85-8523c6201211" />
+
+
 ## 📌 Project Overview
 The **Energy Flow Analysis Dashboard** provides actionable insights into energy consumption, cost efficiency, and emissions across **Atlanta**, **Chicago**, and **New York**.  
 
