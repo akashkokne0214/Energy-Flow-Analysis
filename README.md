@@ -65,5 +65,9 @@ This dashboard helps analyze **renewable vs. non-renewable energy usage**, visua
 
 ## 📂 Project Structure
 
+## ☎️ Contact
+**Auther**: Akash Kokne
+**Linkedin**: https://www.linkedin.com/in/akash-kokne-56301487/
+
 
 
