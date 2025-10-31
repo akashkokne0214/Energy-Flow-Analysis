@@ -26,8 +26,7 @@ This dashboard helps analyze **renewable vs. non-renewable energy usage**, visua
 ---
 
 ## Dashboard Link
-- <a href="https://github.com/akashkokne0214/Energy-Flow-Analysis/blob/main/Screenshot.png">View Dashboard</a>
-
+- <a href="https://mavenshowcase.com/project/53283">View Dashboard</a>
 ---
 
 ## ✨ Key Features
